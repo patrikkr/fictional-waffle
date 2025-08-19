@@ -9,6 +9,6 @@ import input
 user_input = input.getUserInput("Vad heter du\n?")
 print(f"Hej {user_input}!")
 
-import math_functions
+# import math_functions
 
-print()
+# print()
